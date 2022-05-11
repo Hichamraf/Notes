@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="add_new_notes">Add a new Note</string>
+    <string name="title">Title*</string>
+    <string name="description">Description*</string>
+    <string name="save">Save</string>
+    <string name="image_url">Image Url(Optional)</string>
+    <string name="edited">Edited</string>
+</resources>
